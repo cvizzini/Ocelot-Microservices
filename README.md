@@ -1,6 +1,6 @@
 # Microservices
 
-Creating microservices in .Net7.0 using Ocelot apigateway
+Creating microservices in .Net7.0 using [Ocelot](https://github.com/ThreeMammals/Ocelot) apigateway
 
 [Dev.To Article](https://dev.to/siddharth151199/creating-microservices-in-net-core-using-ocelot-apigateway-5had)
 
