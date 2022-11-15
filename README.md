@@ -6,12 +6,11 @@ Creating microservices in .Net7.0 using Ocelot apigateway
 
 ![microservice architecture](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jldaukgtah4lqp1hb4qn.jpeg)
 
-##Requirments
+## Requirments
 - .net7.0
 - Visual Studio Code or Visual Studio 2022
 
-##Usage
-
+## Usage
 1. Build and Start the orders api
 2. Build and Start the products api
 3. Build and Start the Apigateway
